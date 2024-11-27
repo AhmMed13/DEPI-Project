@@ -1,0 +1,41 @@
+.footer span {
+    width: 100%;
+    height: 15px;
+    display: block;
+    background-image: linear-gradient(to right, rgb(41, 177, 190), rgb(107, 121, 185));
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+p {
+    color: white;
+    margin: 0;
+    text-align: start;
+}
+
+img {
+    width: 140px;
+    height: 56px;
+    margin-bottom: 10px;
+}
+.links-title {
+    color: #27B4BB;
+    font-size: 18px;
+    text-align: start;
+    padding: 5px 0;
+}
+
+.links-content i {
+    border-radius: 50%;
+    padding: 3px;
+    margin-left: 7px;
+}
+
+.copy-right {
+    padding: 7px;
+    background-color: #02304d;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
